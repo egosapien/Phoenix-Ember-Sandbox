@@ -9,7 +9,7 @@ use Mix.Config
 config :peepchat, Peepchat.Endpoint,
   url: [host: "localhost"],
   root: Path.dirname(__DIR__),
-  secret_key_base: "8SeXM7ABi3T1ADaJX0Irx2S0hV/+81feEFgKtJze+BG/Zf73bGe9Bglnwg9u8x8t",
+  secret_key_base: "aApWbwz7khlcJzZ3IXmHHyi4QQplmUYx1yw0KwwFkecXfAMCobDl9DzPQ5+Fn8ap",
   render_errors: [accepts: ~w(json)],
   pubsub: [name: Peepchat.PubSub,
            adapter: Phoenix.PubSub.PG2]
@@ -27,10 +27,3 @@ import_config "#{Mix.env}.exs"
 config :phoenix, :generators,
   migration: true,
   binary_id: false
-
-config :phoenix, :format_encoders,
-  "json-api": Poison
-
-config :plug, :mimes, %{
-  "application/vnd.api+json" => ["json-api"]
-}
