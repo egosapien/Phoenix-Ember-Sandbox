@@ -1,0 +1,7 @@
+v2.
+{<<"/Users/astone/Developer/phoenix/_build/test/lib/cors_plug/ebin/Elixir.CORSPlug.beam">>,
+ 'Elixir.CORSPlug',module,<<"lib/cors_plug.ex">>,
+ ['Elixir.Kernel','Elixir.Plug.Conn'],
+ [erlang,'Elixir.List','Elixir.Enum','Elixir.Keyword','Elixir.String.Chars',
+  'Elixir.Access','Elixir.Map'],
+ [],nil}.

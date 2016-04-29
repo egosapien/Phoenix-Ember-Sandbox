@@ -1,0 +1,7 @@
+v2.
+{<<"/Users/astone/Developer/phoenix/_build/dev/lib/uuid/ebin/Elixir.UUID.beam">>,
+ 'Elixir.UUID',module,<<"lib/uuid.ex">>,
+ ['Elixir.Kernel','Elixir.Module','Elixir.Bitwise'],
+ [erlang,os,crypto,'Elixir.ArgumentError',lists,'Elixir.IO','Elixir.String',
+  inet,binary,'Elixir.String.Chars'],
+ [],nil}.

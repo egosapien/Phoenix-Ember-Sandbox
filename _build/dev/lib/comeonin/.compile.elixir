@@ -1,0 +1,48 @@
+v2.
+{<<"/Users/astone/Developer/phoenix/_build/dev/lib/comeonin/ebin/Elixir.Comeonin.Config.beam">>,
+ 'Elixir.Comeonin.Config',module,<<"lib/comeonin/config.ex">>,
+ ['Elixir.Kernel','Elixir.Module'],
+ ['Elixir.Application'],
+ [],nil}.
+{<<"/Users/astone/Developer/phoenix/_build/dev/lib/comeonin/ebin/Elixir.Comeonin.beam">>,
+ 'Elixir.Comeonin',module,<<"lib/comeonin.ex">>,
+ ['Elixir.Kernel','Elixir.Module'],
+ [erlang,'Elixir.Comeonin.Pbkdf2','Elixir.Comeonin.Bcrypt',timer,'Elixir.Mix',
+  'Elixir.String.Chars'],
+ [],nil}.
+{<<"/Users/astone/Developer/phoenix/_build/dev/lib/comeonin/ebin/Elixir.Comeonin.Bcrypt.Base64.beam">>,
+ 'Elixir.Comeonin.Bcrypt.Base64',module,<<"lib/comeonin/bcrypt/base64.ex">>,
+ ['Elixir.Kernel','Elixir.Module','Elixir.Bitwise'],
+ [erlang,'Elixir.ArgumentError','Elixir.String.Chars'],
+ [],nil}.
+{<<"/Users/astone/Developer/phoenix/_build/dev/lib/comeonin/ebin/Elixir.Comeonin.Otp.beam">>,
+ 'Elixir.Comeonin.Otp',module,<<"lib/comeonin/otp.ex">>,
+ ['Elixir.Kernel','Elixir.Module','Elixir.Bitwise'],
+ [erlang,os,crypto,'Elixir.ArgumentError','Elixir.Base','Elixir.String',
+  binary,'Elixir.Keyword','Elixir.Regex',math],
+ [],nil}.
+{<<"/Users/astone/Developer/phoenix/_build/dev/lib/comeonin/ebin/Elixir.Comeonin.Pbkdf2.Base64.beam">>,
+ 'Elixir.Comeonin.Pbkdf2.Base64',module,<<"lib/comeonin/pbkdf2/base64.ex">>,
+ ['Elixir.Kernel','Elixir.Enum','Elixir.Module','Elixir.Bitwise'],
+ [erlang],
+ [],nil}.
+{<<"/Users/astone/Developer/phoenix/_build/dev/lib/comeonin/ebin/Elixir.Comeonin.Bcrypt.beam">>,
+ 'Elixir.Comeonin.Bcrypt',module,<<"lib/comeonin/bcrypt.ex">>,
+ ['Elixir.Kernel','Elixir.Module','Elixir.Bitwise'],
+ [erlang,'Elixir.Comeonin.Tools',crypto,'Elixir.Comeonin.Config',
+  'Elixir.List','Elixir.ArgumentError',filename,code,
+  'Elixir.Comeonin.Bcrypt.Base64',string,'Elixir.Enum',binary,
+  'Elixir.String.Chars'],
+ [],nil}.
+{<<"/Users/astone/Developer/phoenix/_build/dev/lib/comeonin/ebin/Elixir.Comeonin.Tools.beam">>,
+ 'Elixir.Comeonin.Tools',module,<<"lib/comeonin/tools.ex">>,
+ ['Elixir.Kernel','Elixir.Module','Elixir.Bitwise'],
+ [erlang],
+ [],nil}.
+{<<"/Users/astone/Developer/phoenix/_build/dev/lib/comeonin/ebin/Elixir.Comeonin.Pbkdf2.beam">>,
+ 'Elixir.Comeonin.Pbkdf2',module,<<"lib/comeonin/pbkdf2.ex">>,
+ [erlang,'Elixir.Kernel','Elixir.Module','Elixir.Bitwise'],
+ ['Elixir.Comeonin.Tools',crypto,'Elixir.Comeonin.Config',
+  'Elixir.ArgumentError','Elixir.IO','Elixir.String',
+  'Elixir.Comeonin.Pbkdf2.Base64','Elixir.Enum','Elixir.String.Chars'],
+ [],nil}.
